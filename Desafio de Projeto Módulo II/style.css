@@ -72,6 +72,7 @@ nav {
     justify-content: center;
     position: relative;
     animation: backgroundTransition 8s ease-in-out infinite;
+    background-size: 300% 300%;
 }
 
 .social-media {
